@@ -1,0 +1,3 @@
+/home/zym/Share/HTTPServer/build/CMakeFiles/simple_server.dir
+/home/zym/Share/HTTPServer/build/CMakeFiles/edit_cache.dir
+/home/zym/Share/HTTPServer/build/CMakeFiles/rebuild_cache.dir
